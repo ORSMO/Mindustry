@@ -259,5 +259,10 @@
   {
     "name": "SkyPlex",
     "address": ["mc-skyplex.net"]
+  },
+  { 
+    "name": "RSM.Survival", 
+    "address": ["157.90.4.54:25369"]
   }
+  
 ]
